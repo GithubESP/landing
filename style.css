@@ -77,7 +77,7 @@ a:hover {
 
 #information {
     position: relative;
-    top: 80vw;
+    top: 10vw;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -85,7 +85,7 @@ a:hover {
 }
 
 #information section {
-    width: 250px;
+    width: 400px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
